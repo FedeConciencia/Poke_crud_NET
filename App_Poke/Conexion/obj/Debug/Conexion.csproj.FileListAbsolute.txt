@@ -1,0 +1,6 @@
+C:\Users\FedericoSabatini\Desktop\TRABAJO CEDI\Cursos_NET\practica1\Curso_Nivel2\WinForm1\Conexion\bin\Debug\Conexion.dll
+C:\Users\FedericoSabatini\Desktop\TRABAJO CEDI\Cursos_NET\practica1\Curso_Nivel2\WinForm1\Conexion\bin\Debug\Conexion.pdb
+C:\Users\FedericoSabatini\Desktop\TRABAJO CEDI\Cursos_NET\practica1\Curso_Nivel2\WinForm1\Conexion\obj\Debug\Conexion.csproj.AssemblyReference.cache
+C:\Users\FedericoSabatini\Desktop\TRABAJO CEDI\Cursos_NET\practica1\Curso_Nivel2\WinForm1\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\FedericoSabatini\Desktop\TRABAJO CEDI\Cursos_NET\practica1\Curso_Nivel2\WinForm1\Conexion\obj\Debug\Conexion.dll
+C:\Users\FedericoSabatini\Desktop\TRABAJO CEDI\Cursos_NET\practica1\Curso_Nivel2\WinForm1\Conexion\obj\Debug\Conexion.pdb

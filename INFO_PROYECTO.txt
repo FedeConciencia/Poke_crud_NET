@@ -1,0 +1,11 @@
+Se desarrolla APP de Escritorio con C# .NET y Diseño de Base de Datos SQL Server
+para la administracion CRUD (Create-Read-Update-Delete) de Pokemones.
+
+Se aplica logica de backend y creacion de vistas para interaccion del usuario.
+
+Se gestiona Testing y validaciones logicas.
+
+Se aplica logica para buscador avanzado.
+
+
+
